@@ -1,4 +1,5 @@
 class Vlad::Perforce
+  VERSION = '2.0.0'
 
   set :p4_cmd, "p4"
   set :source, Vlad::Perforce.new

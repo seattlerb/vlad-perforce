@@ -1,26 +1,24 @@
-= vlad_perforce
+= vlad-perforce
 
-* FIX (url)
+* http://rubyforge.org/projects/hitsquad
 
 == DESCRIPTION:
 
-FIX (describe your package)
+Vlad plugin providing perforce support. This was previously available
+in vlad but all extra modules outside of the core recipe have been
+removed.
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
-
-== SYNOPSIS:
-
-  FIX (code sample of usage)
+* vlad/perforce - provides perforce support for vlad.
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+* vlad
 
 == INSTALL:
 
-* sudo gem install vlad_perforce
+* sudo gem install vlad-perforce
 
 == LICENSE:
 

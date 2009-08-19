@@ -3,6 +3,5 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
-bin/vlad_perforce
-lib/vlad_perforce.rb
+lib/vlad/perforce.rb
 test/test_vlad_perforce.rb
