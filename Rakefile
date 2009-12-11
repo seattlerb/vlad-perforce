@@ -3,6 +3,8 @@
 require 'rubygems'
 require 'hoe'
 
+Hoe.add_include_dirs("../../vlad/dev/lib")
+
 Hoe.plugin :seattlerb
 
 Hoe.spec 'vlad-perforce' do
