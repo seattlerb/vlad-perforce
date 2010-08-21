@@ -1,8 +1,8 @@
-require 'vlad_test_case'
+require 'rake/test_case'
 require 'vlad'
 require 'vlad/perforce'
 
-class TestVladPerforce < VladTestCase
+class TestVladPerforce < Rake::TestCase
   def setup
     super
     @scm = Vlad::Perforce.new
