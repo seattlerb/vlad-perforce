@@ -1,6 +1,8 @@
 = vlad-perforce
 
-* http://rubyforge.org/projects/hitsquad
+home :: http://rubyhitsquad.com/
+repo :: https://github.com/seattlerb/vlad-perforce
+rdoc :: http://hitsquad.rubyforge.org/vlad-perforce
 
 == DESCRIPTION:
 
