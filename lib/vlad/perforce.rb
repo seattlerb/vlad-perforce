@@ -94,7 +94,7 @@ namespace :vlad do
     p4client_path = File.join deploy_to, 'p4client.tmp'
 
     put p4client_path, 'vlad.p4client' do
-      conf = <<-"CLIENT"
+      <<-"CLIENT"
 Client:	#{p4client}
 
 Owner:	#{p4user}
