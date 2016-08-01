@@ -1,3 +1,9 @@
+=== 2.0.1 / 2016-08-01
+
+* 1 bug fix:
+
+  * Removed unused variable warning
+
 === 2.0.0 / 2009-08-18
 
 * 1 major enhancement
